@@ -1,0 +1,12 @@
+{
+    "name": "keler/comtest",
+    "description": "this is a test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "九广全景",
+            "email": "barrywuqiaojun@schoolpi.net"
+        }
+    ],
+    "require": {}
+}
